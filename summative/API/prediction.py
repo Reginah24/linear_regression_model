@@ -66,3 +66,9 @@ def predict(input_data: PredictionInput):
 
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
+
+
+if __name__ == "__main__":
+    import uvicorn
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
