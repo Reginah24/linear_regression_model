@@ -15,11 +15,16 @@ scaler = joblib.load(os.path.join(BASE_DIR, "scaler_v2.pkl"))
 # CORS setup
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://127.0.0.1:8000", "http://localhost:8000"],
+    allow_origins=[
+        "http://127.0.0.1:8000",
+        "http://localhost:8000",
+        "https://linear-regression-model-ambx.onrender.com"
+    ],
     allow_credentials=True,
     allow_methods=["GET", "POST"],
     allow_headers=["Content-Type"],
 )
+
 
 class PredictionInput(BaseModel):
     age: int = Field(..., ge=18, le=100, description="Age in years")
