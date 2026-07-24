@@ -60,14 +60,9 @@ def predict(input_data: PredictionInput):
         numeric_features = ['age', 'monthly_income_usd', 'monthly_expenses_usd', 'debt_to_income_ratio']
         raw_df[numeric_features] = scaler.transform(raw_df[numeric_features])
 
-        print("DEBUG - final dataframe sent to model:")
-        print(raw_df.to_string())
-        print("DEBUG - dtypes:")
-        print(raw_df.dtypes)
-
         prediction = model.predict(raw_df)[0]
 
-        return {"predicted_savings_usd": round(float(prediction), 2), "debug_row": raw_df.to_dict(orient="records")[0]}
+        return {"predicted_savings_usd": round(float(prediction), 2)}
 
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
