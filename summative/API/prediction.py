@@ -15,10 +15,10 @@ scaler = joblib.load(os.path.join(BASE_DIR, "scaler_v2.pkl"))
 # CORS setup
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # placeholder for now, we'll tighten this next
+    allow_origins=["http://127.0.0.1:8000", "http://localhost:8000"],
     allow_credentials=True,
-    allow_methods=["POST", "GET"],
-    allow_headers=["*"],
+    allow_methods=["GET", "POST"],
+    allow_headers=["Content-Type"],
 )
 
 class PredictionInput(BaseModel):
