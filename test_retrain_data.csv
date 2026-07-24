@@ -1,0 +1,4 @@
+age,gender,education_level,employment_status,monthly_income_usd,monthly_expenses_usd,has_loan,debt_to_income_ratio,region,savings_usd
+28,Female,Bachelor,Employed,3200,1600,No,0.4,Africa,190000
+45,Male,Master,Self-employed,5000,2800,Yes,1.2,Europe,310000
+33,Other,PhD,Employed,4200,2100,No,0.3,Asia,260000
