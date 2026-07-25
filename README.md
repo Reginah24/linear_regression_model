@@ -12,7 +12,7 @@ Agaseke is a regression-based mobile application that estimates a user's expecte
 The dataset is rich enough for regression analysis because it has both numeric and categorical variables, enough volume for train/test splitting, and enough variety to support encoding, scaling, model comparison, and feature selection.
 
 ## What The Notebook Covers
-The notebook is in [summative/linear_regression/multivariate.ipynb](summative/linear_regression/multivariate.ipynb).
+The notebook is in [summative/linear_regression/multivariate (1).ipynb](summative/linear_regression/multivariate%20(1).ipynb).
 
 It includes:
 - correlation heatmaps for feature analysis
@@ -104,7 +104,7 @@ linear_regression_model/
 ├── README.md
 └── summative/
 	├── linear_regression/
-	│   ├── multivariate.ipynb
+	│   ├── multivariate (1).ipynb
 	│   ├── best_savings_model.pkl
 	│   └── scaler_v2.pkl
 	├── API/
