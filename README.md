@@ -138,14 +138,10 @@ flutter pub get
 flutter run
 ```
 
-## Video Demo Checklist
-The 7-minute demo should show:
-- the notebook and model comparison
-- the Flutter app making a prediction
-- Swagger UI testing the `/predict` endpoint
-- datatype and range validation
-- the `/retrain` endpoint with new data upload
-- the reasoning for model choice and CORS settings
+## Video Demo
+[Watch the demo video](https://youtu.be/hg9T_qG7_Cw)
+
+
 
 ## Submission Links
 - GitHub repository: this project
