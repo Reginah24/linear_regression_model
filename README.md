@@ -1,5 +1,46 @@
 # Agaseke Savings Predictor
 
+---
+
+## Submission Requirements
+
+### How to Submit
+This repository contains all required files for the **Summative - First Model Deployment** assignment.
+
+**You have two submission options:**
+1. **Attempt 1:** Upload the ZIP file of this GitHub repo to Canvas
+2. **Attempt 2:** Submit a link to this GitHub repository
+
+### Required Files & Structure
+All files are organized under this directory structure:
+
+```
+linear_regression_model/
+├── pyproject.toml              ✅ Valid Python project configuration
+├── uv.lock                     ✅ Dependency lock file (if using uv)
+├── README.md                   ✅ This file
+└── summative/
+    ├── linear_regression/
+    │   └── multivariate.ipynb  ✅ Jupyter notebook with analysis & model training
+    ├── API/
+    │   └── prediction.py       ✅ FastAPI backend for predictions
+    └── FlutterApp/             ✅ Flutter mobile application
+```
+
+### Package Management
+This project uses **`uv`** for package management and virtual environment management.
+
+**Setup Instructions:**
+```bash
+# Install dependencies from pyproject.toml
+uv sync
+
+# Activate the virtual environment
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+```
+
+---
+
 ## Mission
 Agaseke is a regression-based mobile application that estimates a user's expected monthly savings from demographic and financial inputs. The use case is not generic and is not a house-price example. It focuses on personal finance and savings planning for young users who want a simple estimate of how income, spending, and loan pressure affect savings behavior.
 
@@ -149,3 +190,24 @@ flutter run
 
 ## Notes
 The repository includes a valid `pyproject.toml` and `uv.lock` for reproducible Python dependency management.
+
+---
+
+## Submission Checklist
+
+Use this checklist to verify all requirements are met:
+
+| Criterion | Status | Notes |
+|-----------|--------|-------|
+| ✅ Valid `pyproject.toml` at repo root | COMPLETE | Defines all Python dependencies |
+| ✅ `uv.lock` file present | COMPLETE | Ensures reproducible builds |
+| ✅ README.md documentation | COMPLETE | Describes project, setup, and submission |
+| ✅ Jupyter notebook in `summative/linear_regression/` | COMPLETE | Contains analysis & model training |
+| ✅ API prediction.py in `summative/API/` | COMPLETE | FastAPI backend with `/predict` endpoint |
+| ✅ Flutter app in `summative/FlutterApp/` | COMPLETE | Mobile UI for predictions |
+| ✅ Uses `uv` for dependency management | COMPLETE | `uv sync` and `uv run` supported |
+| ✅ GitHub repository link ready | COMPLETE | Repository accessible for submission |
+
+**Ready for submission!** You can now:
+1. Create a ZIP archive of this repository and upload to Canvas (Attempt 1), OR
+2. Submit the GitHub repository link (Attempt 2)
