@@ -1,0 +1,13 @@
+# Python virtual environment (rebuilt with `uv sync`)
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter autosave files
+.ipynb_checkpoints/
+
+# Flutter build output (rebuilt automatically)
+summative/FlutterApp/**/build/
+summative/FlutterApp/**/.dart_tool/

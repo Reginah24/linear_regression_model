@@ -1,0 +1,24 @@
+[project]
+name = "meal-demand-regression"
+version = "0.1.0"
+description = "Predict weekly meal demand so a restaurant kitchen cooks the right amount and buys the right stock."
+readme = "../README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "fastapi>=0.162.2",
+    "joblib>=1.6.0",
+    "numpy>=2.4.6",
+    "pandas>=3.1.1",
+    "pydantic>=2.14.3",
+    "python-multipart>=0.0.33",
+    "scikit-learn>=1.9.1",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "seaborn>=0.13.2",
+]
