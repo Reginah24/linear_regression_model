@@ -1,0 +1,201 @@
+visitors,air_genre_name,latitude,longitude,day_of_week,holiday_flg,reserve_visitors,prefecture,month,visitors_last_week
+26,Izakaya,33.5756863,130.3699764,Tuesday,0,0.0,Fukuoka-ken,4,35.0
+23,Izakaya,33.5913576,130.4148783,Saturday,1,0.0,Fukuoka-ken,2,20.0
+2,Bar/Cocktail,34.7660929,135.6280998,Monday,0,0.0,Osaka-fu,12,7.0
+33,Izakaya,35.6938401,139.7035494,Thursday,0,0.0,Tokyo-to,8,25.0
+31,Cafe/Sweets,35.7528042,139.7334805,Saturday,0,0.0,Tokyo-to,10,61.0
+2,Italian/French,33.5913576,130.4148783,Sunday,0,0.0,Fukuoka-ken,2,18.0
+29,Italian/French,34.7108955,137.7259397,Wednesday,0,17.0,Shizuoka-ken,4,39.0
+42,Cafe/Sweets,43.0554601,141.3409556,Monday,0,0.0,Hokkaido,7,16.0
+18,Japanese food,35.6580681,139.7515992,Monday,1,0.0,Tokyo-to,3,21.0
+25,Bar/Cocktail,38.2690761,140.8704029,Thursday,0,0.0,Miyagi-ken,12,21.0
+37,Okonomiyaki/Monja/Teppanyaki,35.6617773,139.7040506,Tuesday,0,0.0,Tokyo-to,11,49.0
+39,Izakaya,35.6938401,139.7035494,Monday,0,0.0,Tokyo-to,4,35.0
+20,Japanese food,35.6580681,139.7515992,Tuesday,0,0.0,Tokyo-to,1,23.0
+19,Cafe/Sweets,34.7202277,135.265455,Tuesday,0,0.0,Hyogo-ken,1,15.0
+38,Izakaya,34.7997673,135.3600729,Sunday,0,0.0,Hyogo-ken,1,25.0
+13,Izakaya,35.7253002,139.6961875,Tuesday,0,0.0,Tokyo-to,1,4.0
+9,Izakaya,35.6689735,139.4776614,Saturday,0,0.0,Tokyo-to,10,21.0
+6,Cafe/Sweets,33.5869938,130.3948938,Thursday,0,0.0,Fukuoka-ken,9,16.0
+38,Yakiniku/Korean food,35.6617773,139.7040506,Wednesday,0,0.0,Tokyo-to,11,33.0
+5,Italian/French,35.6617773,139.7040506,Tuesday,0,6.0,Tokyo-to,12,8.0
+49,Cafe/Sweets,33.5892157,130.3928134,Monday,0,0.0,Fukuoka-ken,7,33.0
+13,Italian/French,43.0554601,141.3409556,Saturday,0,0.0,Hokkaido,10,20.0
+30,Cafe/Sweets,35.6580681,139.7515992,Friday,0,0.0,Tokyo-to,9,35.0
+23,Dining bar,34.7053617,135.5100252,Sunday,0,0.0,Osaka-fu,7,18.0
+42,Izakaya,35.5612568,139.7160511,Saturday,0,0.0,Tokyo-to,3,24.0
+16,Cafe/Sweets,35.7043442,139.7914285,Friday,0,0.0,Tokyo-to,10,20.0
+15,Dining bar,34.7053617,135.5100252,Thursday,0,0.0,Osaka-fu,4,9.0
+5,Yakiniku/Korean food,34.6812614,135.5098009,Thursday,0,0.0,Osaka-fu,11,6.0
+1,Bar/Cocktail,35.7262319,139.7232404,Sunday,0,0.0,Tokyo-to,11,4.0
+25,Yakiniku/Korean food,34.7053617,135.5100252,Thursday,1,0.0,Osaka-fu,12,9.0
+20,Cafe/Sweets,35.712607,139.7799956,Wednesday,0,0.0,Tokyo-to,10,24.0
+13,Dining bar,35.6617773,139.7040506,Tuesday,0,0.0,Tokyo-to,4,10.0
+33,Japanese food,33.8808817,130.8734191,Saturday,0,0.0,Fukuoka-ken,10,28.0
+1,Cafe/Sweets,33.5615691,130.4264283,Thursday,0,0.0,Fukuoka-ken,4,2.0
+24,Cafe/Sweets,34.7202277,135.265455,Tuesday,0,0.0,Hyogo-ken,1,24.0
+8,Other,35.6532174,139.7110363,Saturday,0,0.0,Tokyo-to,2,6.0
+16,Italian/French,34.6812614,135.5098009,Saturday,1,10.0,Osaka-fu,12,45.0
+56,Izakaya,43.7706355,142.364819,Wednesday,0,16.0,Hokkaido,12,37.0
+7,Bar/Cocktail,33.5892157,130.3928134,Saturday,0,0.0,Fukuoka-ken,11,7.0
+16,Other,35.6465721,139.6532473,Friday,0,0.0,Tokyo-to,3,11.0
+21,Dining bar,35.6617773,139.7040506,Sunday,0,0.0,Tokyo-to,8,17.0
+54,Cafe/Sweets,35.6938401,139.7035494,Saturday,0,0.0,Tokyo-to,2,43.0
+19,Cafe/Sweets,33.5892157,130.3928134,Sunday,0,0.0,Fukuoka-ken,2,22.0
+10,Dining bar,34.7053617,135.5100252,Monday,0,0.0,Osaka-fu,2,23.0
+5,Western food,35.6617773,139.7040506,Monday,0,0.0,Tokyo-to,11,4.0
+14,Yakiniku/Korean food,43.0554601,141.3409556,Saturday,0,0.0,Hokkaido,2,12.0
+10,Japanese food,35.6617773,139.7040506,Sunday,0,10.0,Tokyo-to,5,9.0
+22,Italian/French,35.6465721,139.6532473,Thursday,0,0.0,Tokyo-to,3,3.0
+5,Japanese food,43.0554601,141.3409556,Wednesday,0,0.0,Hokkaido,9,8.0
+5,Other,33.5913576,130.4148783,Thursday,0,0.0,Fukuoka-ken,7,13.0
+24,Izakaya,35.7066569,139.8684267,Thursday,0,3.0,Tokyo-to,3,39.0
+18,Izakaya,35.6706505,139.7718614,Monday,0,0.0,Tokyo-to,2,29.0
+15,Italian/French,35.6721142,139.7708253,Tuesday,0,0.0,Tokyo-to,5,5.0
+29,Bar/Cocktail,35.7248234,139.7159634,Thursday,0,0.0,Tokyo-to,12,27.0
+2,Izakaya,33.3192865,130.5083735,Thursday,0,0.0,Fukuoka-ken,4,7.0
+9,Izakaya,33.5756863,130.3699764,Saturday,0,0.0,Fukuoka-ken,7,27.0
+17,Bar/Cocktail,35.7261178,139.7166049,Thursday,0,2.0,Tokyo-to,2,11.0
+5,Izakaya,35.6995657,139.6364379,Tuesday,0,0.0,Tokyo-to,10,19.0
+4,Bar/Cocktail,34.7660929,135.6280998,Tuesday,0,0.0,Osaka-fu,10,1.0
+36,Okonomiyaki/Monja/Teppanyaki,35.6580681,139.7515992,Wednesday,0,0.0,Tokyo-to,1,54.0
+18,Dining bar,35.6465721,139.6532473,Monday,0,0.0,Tokyo-to,12,29.0
+7,Bar/Cocktail,35.7261178,139.7166049,Saturday,0,0.0,Tokyo-to,4,17.0
+13,Izakaya,35.6414629,139.6981712,Wednesday,0,0.0,Tokyo-to,3,23.0
+11,Yakiniku/Korean food,38.2690761,140.8704029,Sunday,0,0.0,Miyagi-ken,2,15.0
+34,Dining bar,35.6580681,139.7515992,Wednesday,0,0.0,Tokyo-to,10,56.0
+30,Italian/French,35.6580681,139.7515992,Wednesday,0,0.0,Tokyo-to,10,29.0
+13,Italian/French,34.7375965,135.3415643,Thursday,0,10.0,Hyogo-ken,2,9.0
+12,Izakaya,34.6882414,135.1872537,Saturday,0,0.0,Hyogo-ken,12,27.0
+20,Izakaya,37.9163674,139.0363265,Friday,0,0.0,Niigata-ken,1,61.0
+39,Italian/French,35.6465721,139.6532473,Saturday,0,0.0,Tokyo-to,3,26.0
+8,Bar/Cocktail,35.6465721,139.6532473,Sunday,0,0.0,Tokyo-to,5,6.0
+4,Izakaya,34.6647437,135.5034436,Tuesday,0,0.0,Osaka-fu,7,14.0
+18,Cafe/Sweets,35.6465721,139.6532473,Wednesday,0,0.0,Tokyo-to,8,11.0
+18,Izakaya,35.6749184,139.736775,Saturday,0,0.0,Tokyo-to,2,26.0
+17,Cafe/Sweets,35.6617773,139.7040506,Tuesday,0,0.0,Tokyo-to,1,10.0
+26,Cafe/Sweets,35.6938401,139.7035494,Tuesday,0,0.0,Tokyo-to,9,30.0
+12,Japanese food,35.6617773,139.7040506,Thursday,0,0.0,Tokyo-to,7,9.0
+16,Cafe/Sweets,34.7108955,137.7259397,Thursday,0,0.0,Shizuoka-ken,10,13.0
+39,Italian/French,35.6938401,139.7035494,Tuesday,0,0.0,Tokyo-to,1,71.0
+19,Bar/Cocktail,33.5913576,130.4148783,Sunday,0,0.0,Fukuoka-ken,3,14.0
+5,Other,35.7080677,139.752167,Wednesday,0,0.0,Tokyo-to,3,8.0
+39,Creative cuisine,35.6938401,139.7035494,Wednesday,0,0.0,Tokyo-to,1,29.0
+29,Izakaya,34.7569503,134.8411775,Sunday,0,2.0,Hyogo-ken,12,23.0
+7,Italian/French,35.6995657,139.6364379,Wednesday,0,2.0,Tokyo-to,2,7.0
+17,Japanese food,35.712607,139.7799956,Thursday,0,0.0,Tokyo-to,3,28.0
+17,Izakaya,34.7997673,135.3600729,Friday,0,0.0,Hyogo-ken,6,31.0
+9,Izakaya,35.6580681,139.7515992,Monday,0,0.0,Tokyo-to,11,17.0
+49,Izakaya,33.5756863,130.3699764,Friday,0,0.0,Fukuoka-ken,1,69.0
+2,Bar/Cocktail,34.3862445,132.4550176,Saturday,0,0.0,Hiroshima-ken,1,18.0
+9,Cafe/Sweets,35.6021252,139.6719581,Tuesday,0,0.0,Tokyo-to,11,11.0
+6,Italian/French,35.6995657,139.6364379,Friday,0,0.0,Tokyo-to,11,14.0
+9,Cafe/Sweets,35.6021252,139.6719581,Friday,0,0.0,Tokyo-to,11,7.0
+2,Bar/Cocktail,35.7081457,139.666288,Monday,1,0.0,Tokyo-to,3,2.0
+18,Japanese food,35.6940027,139.7535951,Friday,0,0.0,Tokyo-to,3,20.0
+10,Italian/French,35.6617773,139.7040506,Wednesday,0,0.0,Tokyo-to,8,20.0
+52,Izakaya,35.6414629,139.6981712,Saturday,0,35.0,Tokyo-to,4,82.0
+14,Cafe/Sweets,35.6706505,139.7718614,Saturday,0,0.0,Tokyo-to,2,15.0
+48,Izakaya,35.7435748,139.8471797,Saturday,0,0.0,Tokyo-to,8,38.0
+40,Dining bar,35.6092261,139.7301861,Monday,1,0.0,Tokyo-to,8,30.0
+39,Cafe/Sweets,35.6580681,139.7515992,Monday,0,0.0,Tokyo-to,4,38.0
+13,Cafe/Sweets,34.7053617,135.5100252,Saturday,0,0.0,Osaka-fu,8,16.0
+32,Izakaya,34.6951242,135.1978525,Wednesday,0,11.0,Hyogo-ken,11,30.0
+4,Dining bar,35.6465721,139.6532473,Saturday,0,0.0,Tokyo-to,4,13.0
+50,Okonomiyaki/Monja/Teppanyaki,34.3862445,132.4550176,Friday,0,19.0,Hiroshima-ken,2,51.0
+14,Izakaya,35.6689735,139.4776614,Friday,0,0.0,Tokyo-to,4,15.0
+32,Japanese food,38.2690761,140.8704029,Saturday,0,0.0,Miyagi-ken,1,9.0
+18,Other,35.6414629,139.6981712,Sunday,0,0.0,Tokyo-to,7,33.0
+24,Cafe/Sweets,33.5892157,130.3928134,Saturday,0,0.0,Fukuoka-ken,12,20.0
+13,Dining bar,35.6938401,139.7035494,Friday,0,0.0,Tokyo-to,7,26.0
+9,Cafe/Sweets,35.6092076,139.6693609,Wednesday,0,0.0,Tokyo-to,1,16.0
+11,Izakaya,33.5913576,130.4148783,Saturday,0,0.0,Fukuoka-ken,10,19.0
+20,Italian/French,35.6414629,139.6981712,Friday,0,9.0,Tokyo-to,5,15.0
+12,Japanese food,35.6580681,139.7515992,Monday,0,0.0,Tokyo-to,5,13.0
+7,Italian/French,34.7375965,135.3415643,Wednesday,0,0.0,Hyogo-ken,1,7.0
+19,Izakaya,35.6706505,139.7718614,Monday,0,0.0,Tokyo-to,4,20.0
+29,Izakaya,35.6706505,139.7718614,Monday,0,0.0,Tokyo-to,2,10.0
+5,Cafe/Sweets,35.6465721,139.6532473,Friday,0,0.0,Tokyo-to,1,10.0
+49,Cafe/Sweets,34.7108955,137.7259397,Sunday,0,18.0,Shizuoka-ken,4,54.0
+4,Izakaya,34.9751398,138.3832429,Thursday,0,0.0,Shizuoka-ken,12,52.0
+34,Italian/French,35.6617773,139.7040506,Wednesday,0,0.0,Tokyo-to,10,51.0
+3,Bar/Cocktail,34.7660929,135.6280998,Thursday,0,0.0,Osaka-fu,10,3.0
+17,Izakaya,35.6414629,139.6981712,Monday,0,0.0,Tokyo-to,4,5.0
+10,Italian/French,35.6721142,139.7708253,Thursday,0,0.0,Tokyo-to,5,2.0
+38,Yakiniku/Korean food,33.5892157,130.3928134,Friday,0,0.0,Fukuoka-ken,12,50.0
+14,Japanese food,35.6580681,139.7515992,Friday,0,0.0,Tokyo-to,3,12.0
+13,Izakaya,33.3192865,130.5083735,Sunday,1,0.0,Fukuoka-ken,8,19.0
+15,Izakaya,34.3862445,132.4550176,Tuesday,0,6.0,Hiroshima-ken,6,8.0
+46,Cafe/Sweets,35.7528042,139.7334805,Sunday,0,0.0,Tokyo-to,2,30.0
+29,Izakaya,33.5913576,130.4148783,Saturday,0,0.0,Fukuoka-ken,2,36.0
+28,Dining bar,35.6465721,139.6532473,Friday,0,0.0,Tokyo-to,4,33.0
+19,Izakaya,33.5913576,130.4148783,Friday,0,11.0,Fukuoka-ken,2,36.0
+25,Dining bar,35.6580681,139.7515992,Saturday,0,0.0,Tokyo-to,10,26.0
+37,Izakaya,33.5892157,130.3928134,Saturday,0,31.0,Fukuoka-ken,4,40.0
+3,Izakaya,34.3862445,132.4550176,Sunday,0,0.0,Hiroshima-ken,12,5.0
+33,Cafe/Sweets,35.6617773,139.7040506,Sunday,0,0.0,Tokyo-to,8,30.0
+7,Cafe/Sweets,34.7053617,135.5100252,Friday,0,0.0,Osaka-fu,1,9.0
+3,Bar/Cocktail,35.6641222,139.729426,Monday,0,0.0,Tokyo-to,1,1.0
+25,Japanese food,35.6092261,139.7301861,Tuesday,0,0.0,Tokyo-to,3,9.0
+72,Italian/French,35.6580681,139.7515992,Saturday,0,0.0,Tokyo-to,4,40.0
+8,Izakaya,35.6940027,139.7535951,Saturday,0,4.0,Tokyo-to,11,29.0
+28,Izakaya,35.6414629,139.6981712,Monday,0,0.0,Tokyo-to,7,43.0
+14,Cafe/Sweets,34.6951242,135.1978525,Friday,0,0.0,Hyogo-ken,8,22.0
+65,Dining bar,34.3862445,132.4550176,Saturday,0,38.0,Hiroshima-ken,2,40.0
+3,Bar/Cocktail,34.3862445,132.4550176,Tuesday,0,3.0,Hiroshima-ken,2,13.0
+10,Izakaya,33.8664649,130.7649232,Wednesday,0,6.0,Fukuoka-ken,4,12.0
+19,Izakaya,35.6721142,139.7708253,Wednesday,0,0.0,Tokyo-to,4,12.0
+55,Yakiniku/Korean food,35.6721142,139.7708253,Friday,0,27.0,Tokyo-to,5,73.0
+24,Italian/French,35.6617773,139.7040506,Friday,0,0.0,Tokyo-to,8,25.0
+8,Izakaya,37.8742227,138.9719402,Tuesday,0,0.0,Niigata-ken,12,9.0
+9,Dining bar,34.3862445,132.4550176,Monday,0,0.0,Hiroshima-ken,2,19.0
+6,Japanese food,43.0554601,141.3409556,Saturday,0,0.0,Hokkaido,11,12.0
+73,Izakaya,35.6749184,139.736775,Friday,0,0.0,Tokyo-to,12,58.0
+15,Cafe/Sweets,37.3718999,138.5589836,Wednesday,0,0.0,Niigata-ken,2,19.0
+15,Cafe/Sweets,35.6414629,139.6981712,Wednesday,0,0.0,Tokyo-to,8,11.0
+10,Japanese food,35.6580681,139.7515992,Friday,0,8.0,Tokyo-to,1,8.0
+12,Other,35.712607,139.7799956,Wednesday,0,0.0,Tokyo-to,3,9.0
+11,Italian/French,33.5913576,130.4148783,Friday,0,10.0,Fukuoka-ken,3,16.0
+4,Dining bar,35.6580681,139.7515992,Monday,0,0.0,Tokyo-to,2,3.0
+36,Japanese food,35.6465721,139.6532473,Thursday,0,0.0,Tokyo-to,10,38.0
+23,Cafe/Sweets,33.5573203,130.195555,Friday,0,0.0,Fukuoka-ken,10,10.0
+1,Italian/French,34.7375965,135.3415643,Tuesday,0,0.0,Hyogo-ken,3,4.0
+39,Dining bar,35.6092261,139.7301861,Friday,0,0.0,Tokyo-to,9,72.0
+26,Izakaya,34.7202277,135.265455,Monday,0,0.0,Hyogo-ken,2,16.0
+13,Italian/French,35.6414629,139.6981712,Wednesday,0,0.0,Tokyo-to,4,35.0
+23,Italian/French,34.6951242,135.1978525,Tuesday,1,0.0,Hyogo-ken,5,3.0
+2,Izakaya,34.3862445,132.4550176,Thursday,0,0.0,Hiroshima-ken,11,34.0
+36,Italian/French,34.7375965,135.3415643,Sunday,0,0.0,Hyogo-ken,2,37.0
+19,Italian/French,35.602201,139.6976891,Friday,0,0.0,Tokyo-to,10,24.0
+11,Bar/Cocktail,35.6721142,139.7708253,Wednesday,0,0.0,Tokyo-to,4,20.0
+56,Izakaya,34.3862445,132.4550176,Thursday,0,0.0,Hiroshima-ken,3,47.0
+38,Japanese food,34.815149,134.6853528,Saturday,0,0.0,Hyogo-ken,5,12.0
+12,Izakaya,35.6414629,139.6981712,Saturday,0,0.0,Tokyo-to,9,26.0
+45,Japanese food,35.6580681,139.7515992,Saturday,0,0.0,Tokyo-to,10,22.0
+22,Cafe/Sweets,33.5892157,130.3928134,Thursday,0,0.0,Fukuoka-ken,10,17.0
+21,Western food,35.6617773,139.7040506,Thursday,0,0.0,Tokyo-to,9,44.0
+21,Izakaya,33.5913576,130.4148783,Wednesday,0,0.0,Fukuoka-ken,2,15.0
+6,Dining bar,35.7379419,139.7310979,Friday,0,0.0,Tokyo-to,8,3.0
+50,Italian/French,35.6580681,139.7515992,Wednesday,0,0.0,Tokyo-to,10,25.0
+5,Dining bar,35.6092261,139.7301861,Tuesday,0,0.0,Tokyo-to,8,6.0
+45,Italian/French,35.6617773,139.7040506,Sunday,0,0.0,Tokyo-to,6,64.0
+16,Izakaya,34.3862445,132.4550176,Friday,0,0.0,Hiroshima-ken,1,8.0
+11,Izakaya,35.6580681,139.7515992,Saturday,0,0.0,Tokyo-to,4,4.0
+26,Cafe/Sweets,43.0554601,141.3409556,Friday,0,7.0,Hokkaido,11,5.0
+9,Izakaya,35.6580681,139.7515992,Saturday,0,0.0,Tokyo-to,9,13.0
+17,Japanese food,35.6938401,139.7035494,Sunday,0,0.0,Tokyo-to,12,8.0
+45,Western food,35.6617773,139.7040506,Tuesday,0,0.0,Tokyo-to,4,35.0
+15,Italian/French,35.6465721,139.6532473,Monday,0,0.0,Tokyo-to,4,3.0
+45,Cafe/Sweets,34.6762311,135.4860587,Tuesday,0,0.0,Osaka-fu,3,34.0
+37,Izakaya,35.6995366,139.8265727,Monday,1,0.0,Tokyo-to,10,18.0
+23,Japanese food,35.7261178,139.7166049,Monday,0,0.0,Tokyo-to,10,16.0
+22,Japanese food,33.5913576,130.4148783,Saturday,0,0.0,Fukuoka-ken,2,7.0
+7,Dining bar,43.7706355,142.364819,Wednesday,0,0.0,Hokkaido,2,7.0
+6,Japanese food,35.6940027,139.7535951,Saturday,1,0.0,Tokyo-to,2,4.0
+8,Cafe/Sweets,34.638969,135.5184958,Monday,0,0.0,Osaka-fu,2,14.0
+1,Dining bar,35.6617773,139.7040506,Sunday,0,0.0,Tokyo-to,9,3.0
+12,Bar/Cocktail,35.7073985,139.6638354,Monday,0,0.0,Tokyo-to,1,10.0
+77,Cafe/Sweets,35.7262319,139.7232404,Sunday,0,0.0,Tokyo-to,3,49.0
+30,Cafe/Sweets,35.7043442,139.7914285,Wednesday,0,0.0,Tokyo-to,2,18.0
+54,Yakiniku/Korean food,43.0364075,141.4747892,Thursday,1,0.0,Hokkaido,12,24.0
+4,Italian/French,35.6580681,139.7515992,Thursday,0,0.0,Tokyo-to,7,13.0
