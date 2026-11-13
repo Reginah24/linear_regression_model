@@ -1,8 +1,7 @@
 [project]
-name = "meal-demand-regression"
+name = "restaurant-visitor-prediction"
 version = "0.1.0"
-description = "Predict weekly meal demand so a restaurant kitchen cooks the right amount and buys the right stock."
-readme = "../README.md"
+description = "Predict how many visitors a restaurant will have on a day, so the chef knows how much to cook and how much stock to buy."
 requires-python = ">=3.11,<3.14"
 dependencies = [
     "fastapi>=0.162.2",
