@@ -21,7 +21,8 @@ The API is on Render's free plan, so if nobody has used it for a while the first
 
 ## Video demo
 
-YouTube: ADD LINK HERE
+YouTube: https://youtu.be/YRX6vVmcnWw
+
 
 ## How to run the mobile app
 
